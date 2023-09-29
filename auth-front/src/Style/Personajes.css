@@ -1,0 +1,57 @@
+.contenedor1{
+    margin: 25px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.col{
+    height: 500px;
+    width: 400px;
+    display:inline-block;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    background-color:  hsl(0, 2%, 12%);
+    border-radius: 35px;
+    border: 4px solid rgb(4, 8, 71);
+    margin: 14px;
+    margin-top: 15px;
+    box-shadow: 5px 10px 10px 4px rgba(193, 187, 206, 0.3);
+}
+.cardtarjeta{
+    padding: 12px;
+}
+.Contenedorimagentarjeta{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+
+}
+.imegentarjeta{
+    height:170px;
+    width: 200px;
+    margin: 5px;
+    border-radius: 15px;
+    box-decoration-break: clone;
+
+}
+
+h1{
+    font-size: 20px;
+    color: black;
+    text-transform: uppercase;
+    margin:10px;
+    text-align: center;
+
+}
+
+p{font-size: 20px;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    text-align: center;
+
+}
